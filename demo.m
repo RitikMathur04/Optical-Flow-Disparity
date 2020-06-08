@@ -1,4 +1,3 @@
-disp('======= KITTI 2015 Benchmark Demo =======');
 clear all; close all; dbstop error;
 
 % error threshold
