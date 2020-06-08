@@ -1,28 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-%   This file is part of the HCI-Correspondence Estimation Benchmark.
-%
-%   More information on this benchmark can be found under:
-%       http://hci.iwr.uni-heidelberg.de/Benchmarks/
-%
-%    Copyright (C) 2011  <Sellent, Lauer>
-%
-%    This program is free software: you can redistribute it and/or modify
-%    it under the terms of the GNU General Public License as published by
-%    the Free Software Foundation, either version 3 of the License, or
-%    (at your option) any later version.
-%
-%    This program is distributed in the hope that it will be useful,
-%    but WITHOUT ANY WARRANTY; without even the implied warranty of
-%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-%    GNU General Public License for more details.
-%
-%    You should have received a copy of the GNU General Public License
-%    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-%
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 function [ rgbImageDirection, rgbImageCyclic, rgbImageDifference ] = flow_visualization( u, v, valid, meanU, meanV )
 %This file provides the colour map and the visualization of optical flow 
 %as they are used on the webpage http://hci.iwr.uni-heidelberg.de//Benchmarks/
