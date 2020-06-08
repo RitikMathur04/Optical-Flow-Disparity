@@ -27,3 +27,11 @@ truth<br>
 disp_error_image → displays disparity map between input and
 ground truth<br>
 disp_write → saves disparity map D to png format<br>
+## Example
+Read Flow F=flow_read('estimatedflow.png') <br>
+Horizontal Flow Component u=F(:,:,1)<br>
+Vertical Flow Component v=F(:,:,2)<br>
+Flow Visualization [rgbImage1, rgbImage2, rgbImage3] = flow_visualization( u, v, valid, meanU, meanV )<br>
+Read Ground Truth Flow G=flow_read('gt.png')<br>
+Calculate Flow Error d_err = disp_error (G,F,colorthreshold)<br>
+Display Flow Error image(rgbImage1/2/3)<br>
