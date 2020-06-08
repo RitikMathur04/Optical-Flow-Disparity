@@ -44,3 +44,5 @@ UG Electrical Engineering<br>
 Indian Institute of Technology Roorkee, Uttarakhand, India<br>
 ## More Information
 This project and review paper (http://ijcsmc.com/docs/papers/June2020/V9I6202004.pdf) have been implemented as a part of my internship "Optical Flow Algorithms" at National Tsing Hua University, Taiwan under the supervision of Prof Chung-Chuan Lo,Ph.D., Professor and Director at the Institute of Systems Neuroscience, NTHU, Taiwan (https://scholar.google.com/citations?user=zULxPHYAAAAJ&hl=en)<br>
+The main aim of the internship is to code, review and provide a benchmark test for promising optical flow algorithms.<br>
+The internship is accomplished in online mode due to COVID-19 travel restrictions and lockdown situation.<br>
