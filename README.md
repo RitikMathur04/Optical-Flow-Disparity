@@ -35,6 +35,9 @@ Flow Visualization [rgbImage1, rgbImage2, rgbImage3] = flow_visualization( u, v,
 Read Ground Truth Flow G=flow_read('gt.png')<br>
 Calculate Flow Error d_err = disp_error (G,F,colorthreshold)<br>
 Display Flow Error image(rgbImage1/2/3)<br>
+## Results
+The estimated, ground and error map for disparity and optical flow with calculated error is shown in the images.
+![alt text] (https://github.com/RitikMathur04/Optical-Flow-Disparity-Error-Calculation-and-Visualization/blob/master/1.png?raw=true)
 ## Support
 If you really like this repository and find it useful, please consider (★) starring it, so that it can reach a broader audience of like-minded people. It would be highly appreciated :) !
 ## Author
