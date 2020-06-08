@@ -35,3 +35,12 @@ Flow Visualization [rgbImage1, rgbImage2, rgbImage3] = flow_visualization( u, v,
 Read Ground Truth Flow G=flow_read('gt.png')<br>
 Calculate Flow Error d_err = disp_error (G,F,colorthreshold)<br>
 Display Flow Error image(rgbImage1/2/3)<br>
+## Support
+If you really like this repository and find it useful, please consider (★) starring it, so that it can reach a broader audience of like-minded people. It would be highly appreciated :) !
+## Author
+Ritik Mathur<br>
+Email: rmathur@me.iitr.ac.in <br>
+UG Electrical Engineering<br>
+Indian Institute of Technology Roorkee, Uttarakhand, India<br>
+## More Information
+This project and review paper (http://ijcsmc.com/docs/papers/June2020/V9I6202004.pdf) have been implemented as a part of my internship "Optical Flow Algorithms" at National Tsing Hua University, Taiwan under the supervision of Prof Chung-Chuan Lo,Ph.D., Professor and Director at the Institute of Systems Neuroscience, NTHU, Taiwan (https://scholar.google.com/citations?user=zULxPHYAAAAJ&hl=en)<br>
