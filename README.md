@@ -37,11 +37,9 @@ Calculate Flow Error d_err = disp_error (G,F,colorthreshold)<br>
 Display Flow Error image(rgbImage1/2/3)<br>
 ## Results
 The estimated, ground and error map for disparity and optical flow with calculated error is shown in the images.
-<p align="center">
-  <img src="https://github.com/RitikMathur04/Optical-Flow-Disparity-Error-Calculation-and-Visualization/blob/master/images/1.png" width="350" title="Disparity Error">
-  <img src="https://github.com/RitikMathur04/Optical-Flow-Disparity-Error-Calculation-and-Visualization/blob/master/images/2.png" width="350" title="Optical Flow Error">
-</p><br>
-## Support
+![Disparity Error](https://github.com/RitikMathur04/Optical-Flow-Disparity-Error-Calculation-and-Visualization/blob/master/images/1.png)
+![Flow Error](https://github.com/RitikMathur04/Optical-Flow-Disparity-Error-Calculation-and-Visualization/blob/master/images/2.png)
+## Support 
 If you really like this repository and find it useful, please consider (★) starring it, so that it can reach a broader audience of like-minded people. It would be highly appreciated :) !
 ## Author
 Ritik Mathur<br>
